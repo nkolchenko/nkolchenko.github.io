@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+##Nikolay Kolchenko
 
-You can use the [editor on GitHub](https://github.com/nkolchenko/nkolchenko.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+About me: For last 10 years I've been working as Technical Support Engineer / Systems Engineer / "DevOps" Engineer in a different companies ranging from startups to corporations. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a lot of experience working in a multitasking, fast paced IT environment and the willingness to grow further toward "DevOps" Engineer (alternatively Site Reliability Engineer) career.
 
-### Markdown
+Right now I work as DevOps mostly with AWS + Terraform as well as with everything that is related or can be related to that domain e.g. git, CI/CD tools (GH Actions, Team City)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additionally, I'm proud of educating the "kubernetes community" via sharing my knowledge through [StackOverflow](https://stackoverflow.com/users/1466573).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nkolchenko/nkolchenko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My **goal** is to learn more on how complex systems are designed, built and maintained in a real life and to grow further 
+in infrastructure/”DevOps” area.
