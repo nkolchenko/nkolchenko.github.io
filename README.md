@@ -13,4 +13,4 @@ My **goal** is to learn more on how complex systems are designed, built and main
 in infrastructure/”DevOps” area.
 
 
- [CV](https://github.com/nkolchenko/nkolchenko.github.io/raw/master/Nikolay_Kolchenko_DevOps.pdf) and  [LinkedIn profile](https://www.linkedin.com/in/nikolay-kolchenko-a8559a23/). 
+[CV](https://github.com/nkolchenko/nkolchenko.github.io/raw/master/Nikolay_Kolchenko_DevOps.pdf) and  [LinkedIn profile](https://www.linkedin.com/in/nikolay-kolchenko-a8559a23/). 
