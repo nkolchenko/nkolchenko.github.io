@@ -11,3 +11,6 @@ Additionally, I'm proud of educating the "kubernetes community" via sharing my k
 
 My **goal** is to learn more on how complex systems are designed, built and maintained in a real life and to grow further 
 in infrastructure/”DevOps” area.
+
+
+ [CV](https://github.com/nkolchenko/nkolchenko.github.io/raw/master/Nikolay_Kolchenko_DevOps.pdf) and  [LinkedIn profile](https://www.linkedin.com/in/nikolay-kolchenko-a8559a23/). 
