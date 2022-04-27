@@ -1,4 +1,4 @@
-##Nikolay Kolchenko
+## Nikolay Kolchenko
 
 About me: For last 10 years I've been working as Technical Support Engineer / Systems Engineer / "DevOps" Engineer in a different companies ranging from startups to corporations. 
 
